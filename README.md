@@ -1,3 +1,3 @@
-Based on [SinglePaged](https://github.com/t413/SinglePaged/blob/gh-pages/site.js)
+Based on [SinglePaged](https://github.com/t413/SinglePaged/)
 
-Include [jekyll-multilingual](https://github.com/sylvaindurand/jekyll-multilingual/blob/gh-pages/_includes/header.html) functionnality 
+Include [jekyll-multilingual](https://github.com/sylvaindurand/jekyll-multilingual/) functionnality 
