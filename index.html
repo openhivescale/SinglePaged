@@ -23,7 +23,18 @@
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
-    </ul></nav>
+	    
+	{% assign posts=site.posts | where:"ref", "intro" | sort: 'lang' %}
+	{% for post in posts %}
+	  <li>
+	    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+	  </li>
+	{% endfor %}
+	    
+    </ul>
+	  
+	  
+	  </nav>
 
 
     {% for page in site.posts reversed %}
