@@ -23,6 +23,8 @@
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
+	    <ul>
+	    </ul>
 	    
 	{% assign posts=site.posts | where:"ref", "intro" | sort: 'lang' %}
 	{% for post in posts %}
