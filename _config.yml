@@ -14,7 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "OpenHiveScale"
+title:       
+  en: "OpenHiveScale"
+  fr: "OpenHiveScale (en français)"
 keywords:    "hive scale beehive connected IoT opensource sigfox"
 description: "An opensource, connected and mechanical scale for beehive monitoring "
 source_link: "https://github.com/OpenHiveScale"
