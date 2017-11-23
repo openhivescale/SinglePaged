@@ -1,5 +1,5 @@
 ---
-title: "Details"
+title: "En détail"
 bg: green
 color: black
 fa-icon: align-left
