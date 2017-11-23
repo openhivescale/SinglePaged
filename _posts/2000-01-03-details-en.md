@@ -13,27 +13,27 @@ lang: "en"
   <div id="slideshow">
 
 <div markdown="1">
-### La romaine de base
+### Original steelyard roman balance
 ![1](img/principe01.png)
 </div>
     
 <div markdown="1">
-### On motorise le déplacement du contrepoids
+### We add a motor to put counter-weight in motion
 ![2](img/principe02.png)
 </div>
     
 <div markdown="1">
-### Une fourche optique détecte l'équilibre
+### An optical endstop detects balance
 ![3](img/principe03.png)
 </div>
     
 <div markdown="1">
-### Un microcontrôleur quelconque pilote l'ensemble
+### A microcontroller drives the system
 ![4](img/principe04.png)
 </div>
 
 <div markdown="1">
-### Envoi de la donnée...
+### And sends the data...
 ![5](img/principe05.png)
 </div>
 
