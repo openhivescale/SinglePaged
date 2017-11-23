@@ -4,7 +4,7 @@ bg: green
 color: black
 fa-icon: align-left
 ref: "details"
-lang: "en"
+lang: "fr"
 ---
 
 ## Principle
