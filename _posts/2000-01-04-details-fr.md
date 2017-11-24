@@ -1,6 +1,6 @@
 ---
 title: "En détail"
-bg: orange
+bg: purple
 color: black
 fa-icon: align-left
 ref: "details"
