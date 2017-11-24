@@ -1,9 +1,9 @@
 ---
-title: "Principle"
+title: "Details"
 bg: orange
 color: black
 fa-icon: align-left
-ref: "principle"
+ref: "details"
 lang: "en"
 ---
 
