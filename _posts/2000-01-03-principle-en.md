@@ -1,5 +1,5 @@
 ---
-title: "Details"
+title: "Principle"
 bg: green
 color: black
 fa-icon: align-left
