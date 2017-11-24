@@ -3,7 +3,7 @@ title: "Principle"
 bg: green
 color: black
 fa-icon: align-left
-ref: "details"
+ref: "principle"
 lang: "en"
 ---
 
