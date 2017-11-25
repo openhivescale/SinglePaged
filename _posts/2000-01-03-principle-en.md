@@ -11,12 +11,12 @@ lang: "en"
   <div id="slideshow">
 
 <div markdown="1">
-### Original steelyard roman balance
+## Original steelyard roman balance
 ![1](img/principe01.png)
 </div>
     
 <div markdown="1">
-### We add a motor to put counter-weight in motion
+## We add a motor to put counter-weight in motion
 ![2](img/principe02.png)
 </div>
     
