@@ -1,5 +1,5 @@
 ---
-title: "Principe"
+title: "Principio"
 bg: green
 color: black
 fa-icon: align-left
@@ -11,27 +11,27 @@ lang: "es"
   <div id="slideshow">
 
 <div markdown="1">
-### Original steelyard roman balance
+### Antigua bascula romana
 ![1](img/principe01.png)
 </div>
     
 <div markdown="1">
-### We add a motor to put counter-weight in motion
+### Añadimos un motor para poder mover el contrapeso
 ![2](img/principe02.png)
 </div>
     
 <div markdown="1">
-### An optical endstop detects balance
+### Un detector óptico detecta el equilibrio
 ![3](img/principe03.png)
 </div>
     
 <div markdown="1">
-### A microcontroller drives the system
+### Un microcontrolador maneja el sistema
 ![4](img/principe04.png)
 </div>
 
 <div markdown="1">
-### And sends the data...
+### Y envía los datos...
 ![5](img/principe05.png)
 </div>
 
