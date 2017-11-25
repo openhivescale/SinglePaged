@@ -1,5 +1,5 @@
 ---
-title: "Proprétés"
+title: "Propriétés"
 bg: orange
 color: black
 fa-icon: cogs
