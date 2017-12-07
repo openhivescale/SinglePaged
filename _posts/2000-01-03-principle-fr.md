@@ -51,6 +51,6 @@ lang: "fr"
 - Parceque nous nous pouvons construire nous même tous les organes et que nous n'achetons aucun composant complexe
   * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse
   * En cas de problème, le diagnostic et la réparation est aisé
-  * DIY-ers friendly
-
+  * DIY*-ers friendly (*Do It Your Self)
+  
 - Le principe est simple et vieux comme la Rome antique
