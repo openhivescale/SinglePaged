@@ -49,6 +49,6 @@ Avec 3xAA alkaline batteries, nous atteignons 2 à 5 ans d'autonomie, en fonctio
 
 ## Construction
 
-Nous avons conçu un kit facile à assembler, composé de profilés en aluminium et d'acier inoxydable découpé au laser, joint principalement avec des rivets. Très peu d'autres pièces, un simple moteur, une courroie, un palier linéaire, un capteur optique. C'est tout.
+Nous avons conçu un kit facile à assembler, composé de profilés en aluminium et d'acier inoxydable découpé au laser, assemblé des rivets et de la visserie inox. Très peu d'autres pièces, un simple moteur, une courroie, un palier linéaire, un capteur optique. C'est tout.
 
 À suivre…. 
