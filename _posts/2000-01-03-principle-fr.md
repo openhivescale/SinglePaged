@@ -39,7 +39,7 @@ lang: "fr"
 </div>.
 
 
-## Pourquoi une balance mécanique et non pas des jaugs de contraintes habituellement utilisées?
+## Pourquoi une balance mécanique et non pas des jauges de contraintes habituellement utilisées?
 
 - Car les jauges de contraintes ne doivent être soumises à une charge permanente.
   * Un phénomène de fluage rend la mesure non linéaire après un certain temps, ceci est bien documenté
@@ -48,7 +48,7 @@ lang: "fr"
   * Nous avons constaté ce phénomène de dérive sur notre premier prototype qui utilisait des jauges de contraintes, les résultats ont été pires qu'attendu
   * Une balance mécanique n'est pas sujette à ce phénomène et même si la une structure venait à se déformer, la mesure ne pourrait dériver.
 
-- Parceque nous nous pouvons construire nous même tous les organes et que nous n'achetons aucun composant complexe
+- Parceque nous pouvons construire nous même tous les organes et que nous n'achetons aucun composant complexe
   * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse
   * En cas de problème, le diagnostic et la réparation est aisé
   * DIY*-ers friendly (*Do It Your Self)
