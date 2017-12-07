@@ -41,7 +41,7 @@ La meilleure energie et celle que que l'on utilise pas...
 - Ensuite, nous recherchons le meilleur compromis entre impact environnemental, coût, disponibilité des batteries
   * Nous avons réussi à atteindre une bonne autonomie avec de simples piles alcalines
   * Sur un cycle de vie de 10 ans, les batteries rechargeables, Li-ion ou Ni-MH, avec ou sans panneau solaire ont un coût et un impact plus élevé
-  * Les piles alcalines AA sont la plus faciles d'accès partout sures plus disponibles dans le monde entier.
+  * Les piles alcalines AA sont les plus accessibles dans le monde entier.
   
 Avec 3xAA alkaline batteries, nous atteignons 2 à 5 ans d'autonomie, en fonction du climat, de la fréquence des mesures etc ...
 
