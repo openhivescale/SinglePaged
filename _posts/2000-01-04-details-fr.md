@@ -11,18 +11,19 @@ lang: "fr"
 ## Connectivity
 
 - WiFi
-  * Included in every board
-  * Cheapest option if you have a hotspot accessible
-  * User-friendly configuration with a smartphone or laptop
-  * Master-slave scenario, for sharing a single GSM or Sigfox endpoint
+  * Inclu dans toutes les cartes
+  * L'option la moins chère si vous disposez d'un hotspot accessible
+  * Configuration conviviale et aisée avec un smartphone ou un ordinateur portable
+  * Maître et esclave paramétrable, pour partager un seul point de terminaison GSM ou Sigfox
+  * Possibilité d'ajouter des capteurs complémentaires en liaison Wifi
 
-- Sigfox (optional)
+- Sigfox (optionel)
   * Best option for battery life if no hotspot
   * Subscription cheaper than GSM
   * Network coverage complementary with GSM
   * [World roll-out in progress](https://www.sigfox.com/en/coverage)
 
-- GSM (optional)
+- GSM (optionel)
   * Best coverage all around the world
 
 -------------------------
