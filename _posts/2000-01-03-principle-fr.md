@@ -46,11 +46,11 @@ lang: "fr"
   * Les fabricants de jauges de contraintes ne précisent pas la dérive après 30 minutes...
   * Les appareils de pesage habituels permettent une tare entre chaque mesure, impossible dans un scénario de surveillance de la ruche
   * Nous avons constaté ce phénomène de dérive sur notre premier prototype qui utilisait des jauges de contraintes, les résultats ont été pires qu'attendu
-  * Mechanical scale is not subject to this phenomena. Even if structure creeps, measurement doesn't change.
+  * Une balance mécanique n'est pas sujette à ce phénomène et même si la une structure venait à se déformer, la mesure ne pourrait dériver.
 
-- Because we don't depend on any complicated part that we must outsource
-  * This makes possible to keep price low
-  * Easier to understand what could go wrong and repair
+- Parceque nous nous pouvons construire nous même tous les organes et que nous n'achetons aucun composant complexe
+  * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse
+  * En cas de problème, le diagnostic et la réparation est aisé
   * DIY-ers friendly
 
-- Principle is simple and old as ancient Rome
+- Le principe est simple et vieux comme la Rome antique
