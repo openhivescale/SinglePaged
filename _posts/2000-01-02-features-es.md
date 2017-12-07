@@ -8,7 +8,6 @@ lang: "es"
 ---
 
 
-## Excellent long-term stability and precision of weight measurement
-## WiFi? Sigfox? GSM? Your choice...
-## Data sent to [OpenHiveManager.org](https://openhivemanager.org/)
-
+## Excelente estabilidad y precisión alargo plazo en la medida del peso
+## WiFi? Sigfox? GSM? Tu elijes...
+## Datos enviados a [OpenHiveManager.org](https://openhivemanager.org/)
