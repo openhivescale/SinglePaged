@@ -18,40 +18,37 @@ lang: "fr"
   * Possibilité d'ajouter des capteurs complémentaires en liaison Wifi
 
 - Sigfox (optionel)
-  * Best option for battery life if no hotspot
-  * Subscription cheaper than GSM
-  * Network coverage complementary with GSM
-  * [World roll-out in progress](https://www.sigfox.com/en/coverage)
+  * Meilleure option pour la durée de vie de la batterie si aucun hotspot Wifi
+  * Abonnement moins onéreux que le Wifi
+  * Couverture réseau complémentaire au réseau GSM
+  * [Déploiement mondial en cours](https://www.sigfox.com/en/coverage)
 
-- GSM (optionel)
-  * Best coverage all around the world
+- GSM (optionnel)
+  * Meilleure couverture partout dans le monde
 
 -------------------------
   
-## Autonomy
+## Autonomie
 
-Best energy is the one you don't use...
+La meilleure energie et celle que que l'on utilise pas...
 
-- First, highly optimized electronic
-  * 100nA sleep current
-  * Motor driving strategy
-  * Modulable measurement frequency and data send along the year
+- Tout d'abord, électronique hautement optimisée
+  * Courant de sommeil de 100nA
+  * Stratégie de recherche d'équilibre
+  * Fréquence de mesure et d'envoi des données paramétrable à distance
   * ...
 
-- Then we look for the best trade-off between environmental impact, cost, availibility of batteries
-  * We managed to achieve a good autonomy with simple alkaline batteries
-  * On a 10 years lifecycle, rechargeable battery, Li-ion or Ni-MH, with or without solar panel as an higher cost and impact
-  * AA alkaline batteries are the most available battery all around the world
-
-With 3xAA alkaline batteries, we expect 2-5 years autonomy, depending on climate, measurement frequency etc...
+- Ensuite, nous recherchons le meilleur compromis entre impact environnemental, coût, disponibilité des batteries
+  * Nous avons réussi à atteindre une bonne autonomie avec de simples piles alcalines
+  * Sur un cycle de vie de 10 ans, les batteries rechargeables, Li-ion ou Ni-MH, avec ou sans panneau solaire ont un coût et un impact plus élevé
+  * Les piles alcalines AA sont la plus faciles d'accès partout sures plus disponibles dans le monde entier.
+  
+Avec 3xAA alkaline batteries, nous atteignons 2 à 5 ans d'autonomie, en fonction du climat, de la fréquence des mesures etc ...
 
 -------------------------
 
 ## Construction
 
-We designed an easy to assemble kit, made of aluminium profiles and laser cut stainless steel, joint mainly with rivet.
-Very few 'other' parts, a simple motor, a belt, linear bearing, optical end stop. That's it.
+Nous avons conçu un kit facile à assembler, composé de profilés en aluminium et d'acier inoxydable découpé au laser, joint principalement avec des rivets. Très peu d'autres pièces, un simple moteur, une courroie, un palier linéaire, un capteur optique. C'est tout.
 
-
-
-To be continued....
+À suivre…. 
