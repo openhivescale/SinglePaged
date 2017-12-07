@@ -11,27 +11,27 @@ lang: "fr"
   <div id="slideshow">
 
 <div markdown="1">
-### Original steelyard roman balance
+### Balance Romaine originale
 ![1](img/principe01.png)
 </div>
     
 <div markdown="1">
-### We add a motor to put counter-weight in motion
+### Nous ajoutons un moteur pour déplacer le contre-poids
 ![2](img/principe02.png)
 </div>
     
 <div markdown="1">
-### An optical endstop detects balance
+### Un capteur optique détecte l'équilibre
 ![3](img/principe03.png)
 </div>
     
 <div markdown="1">
-### A microcontroller drives the system
+### Un microcontrôleur pilote l'ensemble
 ![4](img/principe04.png)
 </div>
 
 <div markdown="1">
-### And sends the data...
+### Et envoie les données...
 ![5](img/principe05.png)
 </div>
 
