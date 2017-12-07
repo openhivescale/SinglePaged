@@ -39,13 +39,13 @@ lang: "fr"
 </div>.
 
 
-## Why a mechanical scale, and not a load cell?
+## Pourquoi une balance mécanique et non pas des jaugs de contraintes habituellement utilisées?
 
-- Because load cell are not supposed to be under continuous constraint.
-  * A creep phenomen make measurement unstable after some time, this is well documented
-  * Load cells manufacturers don't communicate on creep over 30 minutes...
-  * Typical use case implies a tare between each measurement, not possible in hive monitoring scenario
-  * We check this on our first prototype using load cells, it was worse than expected
+- Car les jauges de contraintes ne doivent être soumises à une charge permanente.
+  * Un phénomène de fluage rend la mesure non linéaire après un certain temps, ceci est bien documenté
+  * Les fabricants de jauges de contraintes ne précisent pas la dérive après 30 minutes...
+  * Les appareils de pesage habituels permettent une tare entre chaque mesure, impossible dans un scénario de surveillance de la ruche
+  * Nous avons constaté ce phénomène de dérive sur notre premier prototype qui utilisait des jauges de contraintes, les résultats ont été pires qu'attendu
   * Mechanical scale is not subject to this phenomena. Even if structure creeps, measurement doesn't change.
 
 - Because we don't depend on any complicated part that we must outsource
