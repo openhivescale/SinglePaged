@@ -8,10 +8,10 @@ lang: "es"
 ---
 
 
-## Connectivity
+## Connectividad
 
 - WiFi
-  * Incluido en cada bascula
+  * Incluido en cada báscula
   * La opción más barata si tiene un punto de acceso WiFi a proximidad
   * Configuración fácil con teléfono o computadora
   * Escenario maestro-esclavo, para enviar los datos desde un único punto final GSM o Sigfox 
@@ -27,30 +27,31 @@ lang: "es"
    
 -------------------------
   
-## Autonomy
+## Autonomía
 
-Best energy is the one you don't use...
+La mejor energía es la que no usas ...
 
-- First, highly optimized electronic
-  * 100nA sleep current
-  * Motor driving strategy
-  * Modulable measurement frequency and data send along the year
-  * ...
+- Primero, Electrónica altamente optimizada
+  * Corriente en descanzo 100nA
+  * Estrategia de manejo del motor
+  * Frecuencia de medida y envío de datos modulable a distancia 
 
-- Then we look for the best trade-off between environmental impact, cost, availibility of batteries
-  * We managed to achieve a good autonomy with simple alkaline batteries
-  * On a 10 years lifecycle, rechargeable battery, Li-ion or Ni-MH, with or without solar panel as an higher cost and impact
-  * AA alkaline batteries are the most available battery all around the world
+- Luego buscamos el mejor equilibrio entre el impacto ambiental, el costo y la disponibilidad de las baterías
+  * Logramos una buena autonomía con baterías alcalinas simples
+  * En un ciclo de vida de 10 años, la batería recargable, Li-ion o Ni-MH, con o sin panel solar tienen un mayor costo e impacto
+  * Las baterías alcalinas AA son la batería más disponible en todo el mundo 
 
-With 3xAA alkaline batteries, we expect 2-5 years autonomy, depending on climate, measurement frequency etc...
+Con tres baterías alcalinas 3xAA, conseguimos 2 a 5 años de autonomía, dependiendo del clima, frecuencia de medida, etc.
 
 -------------------------
 
-## Construction
+## Construcción
 
 We designed an easy to assemble kit, made of aluminium profiles and laser cut stainless steel, joint mainly with rivet.
 Very few 'other' parts, a simple motor, a belt, linear bearing, optical end stop. That's it.
+Construcción
 
+Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocas "otras" partes, un motor simple, una correa, un rodamiento linear, un sensor óptico. Eso es.
 
+Continuará…. 
 
-To be continued....
