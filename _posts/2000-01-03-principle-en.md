@@ -53,4 +53,4 @@ lang: "en"
 
 - Principle is simple and old as ancient Rome
 
-!(img/schema_principe_balance.svg.png)
+!(img/principle.png)
