@@ -37,8 +37,6 @@ lang: "en"
 
   </div>
 </div>.
-
-
 ## Why a mechanical scale, and not a load cell?
 
 - Because load cell are not supposed to be under continuous constraint.
@@ -54,3 +52,4 @@ lang: "en"
   * DIY-ers friendly
 
 - Principle is simple and old as ancient Rome
+![principle](img/principle.png)
