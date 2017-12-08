@@ -31,7 +31,7 @@ lang: "es"
 
 La mejor energía es la que no usas ...
 
-- Primero, Electrónica altamente optimizada
+- En primer lugar, una electrónica altamente optimizada
   * Corriente en descanzo 100nA
   * Estrategia de manejo del motor
   * Frecuencia de medida y envío de datos modulable a distancia 
