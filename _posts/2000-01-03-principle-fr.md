@@ -54,3 +54,5 @@ lang: "fr"
   * DIY*-ers friendly (*Do It Your Self)
   
 - Le principe est simple et vieux comme la Rome antique
+
+!(img/principle.png)
