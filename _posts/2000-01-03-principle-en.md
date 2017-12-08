@@ -52,4 +52,4 @@ lang: "en"
   * DIY-ers friendly
 
 - Principle is simple and old as ancient Rome
-![principle](img/principle.png)
+![principle](img/schema_principe_balance.svg.png)
