@@ -8,7 +8,7 @@ lang: "fr"
 ---
 
 
-## Connectivity
+## Connectivité
 
 - WiFi
   * Inclu dans toutes les cartes
