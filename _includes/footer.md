@@ -1,7 +1,5 @@
 
 
-Pierre BECK - Juan GONZALEZ
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
+Pierre BECK - Juan GONZALEZ;
 this site is [open source]({{ site.source_link }})
 
