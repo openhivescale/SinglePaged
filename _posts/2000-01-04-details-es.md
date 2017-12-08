@@ -11,20 +11,20 @@ lang: "es"
 ## Connectivity
 
 - WiFi
-  * Included in every board
-  * Cheapest option if you have a hotspot accessible
-  * User-friendly configuration with a smartphone or laptop
-  * Master-slave scenario, for sharing a single GSM or Sigfox endpoint
+  * Incluido en cada bascula
+  * La opción más barata si tiene un punto de acceso WiFi a proximidad
+  * Configuración fácil con teléfono o computadora
+  * Escenario maestro-esclavo, para enviar los datos desde un único punto final GSM o Sigfox 
 
-- Sigfox (optional)
-  * Best option for battery life if no hotspot
-  * Subscription cheaper than GSM
-  * Network coverage complementary with GSM
-  * [World roll-out in progress](https://www.sigfox.com/en/coverage)
+- Sigfox (opcional)
+  * La mejor opción para la duración de la batería si no hay un punto de acceso WiFi
+  * Abono más barato que GSM
+  * Cobertura de red complementaria con GSM
+  * [Desarollo mundial en progreso](https://www.sigfox.com/en/coverage)
 
-- GSM (optional)
-  * Best coverage all around the world
-
+- GSM (opcional)
+  * La mejor cobertura en todo el mundo
+   
 -------------------------
   
 ## Autonomy
