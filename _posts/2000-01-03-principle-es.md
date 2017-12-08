@@ -55,3 +55,5 @@ lang: "es"
   * DIY-ers friendly (hágalo usted mismo)
 
 - El principio es básico y antiguo como la antigua Roma
+
+!(img/principle.png)
