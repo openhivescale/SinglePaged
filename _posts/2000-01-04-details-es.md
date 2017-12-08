@@ -47,11 +47,6 @@ Con tres baterías alcalinas 3xAA, conseguimos 2 a 5 años de autonomía, depend
 
 ## Construcción
 
-We designed an easy to assemble kit, made of aluminium profiles and laser cut stainless steel, joint mainly with rivet.
-Very few 'other' parts, a simple motor, a belt, linear bearing, optical end stop. That's it.
-Construcción
-
 Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocas "otras" partes, un motor simple, una correa, un rodamiento linear, un sensor óptico. Eso es.
 
-Continuará…. 
 
