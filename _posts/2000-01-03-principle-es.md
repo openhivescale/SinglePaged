@@ -56,4 +56,4 @@ lang: "es"
 
 - El principio es básico y antiguo como la antigua Roma
 
-!(img/principle.png)
+![principle](img/principle.png)
