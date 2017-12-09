@@ -1,2 +1,2 @@
 
-Pierre BECK - Juan GONZALEZ
+Pierre BECK - Juan GONZALEZ  [contact](contact@OpenHiveScale.org/)
