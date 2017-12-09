@@ -1,2 +1,2 @@
 
-Pierre BECK - Juan GONZALEZ  this site is [open source]({{
+Pierre BECK - Juan GONZALEZ
