@@ -53,4 +53,4 @@ lang: "en"
 
 - Principle is simple and old as ancient Rome
 
-!(img/principle.png)
+![principle](img/principle.png)
