@@ -55,4 +55,4 @@ lang: "fr"
   
 - Le principe est simple et vieux comme la Rome antique
 
-!(img/principle.png)
+![principle](img/principle.png)
