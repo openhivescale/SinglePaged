@@ -7,7 +7,7 @@ ref: "mechanical"
 lang: "fr"
 ---
 
-![principle](img/principe01.png)
+![principle](img/romaine_larive_fleury_t3_175.png)
 ### Balance Romaine originale
 ### Nous ajoutons un moteur pour déplacer le contre-poids
 ### Un capteur optique détecte l'équilibre
