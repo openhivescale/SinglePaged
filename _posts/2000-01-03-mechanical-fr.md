@@ -2,7 +2,7 @@
 title: "Mécanique"
 bg: green
 color: black
-fa-icon: cogs
+fa-icon: align-left
 ref: "mechanical"
 lang: "fr"
 ---
@@ -48,6 +48,7 @@ Vu le poids à peser (100kg), le contrepoids souhaitée (500g), et l'espace disp
   <iframe src="https://www.youtube.com/embed/kFrGVwb06q8" allowfullscreen></iframe>
 </div>
 
-Nous avons conçu un kit facile à assembler, composé de profilés en aluminium et d'acier inoxydable découpé au laser, assemblé par de la visserie inox. Très peu d'autres pièces, un simple moteur, une courroie, un palier linéaire, un capteur optique. C'est tout.
+- Nous avons conçu un kit durable, réparable, modifiable, évolutif.
+- Composé de profilés en aluminium et d'acier inoxydable découpé au laser, assemblé par de la visserie inox. Très peu d'autres pièces, un simple moteur, une courroie, un palier linéaire, un capteur optique. C'est tout.
 
 ![photo](img/20171218_235141.jpg)
