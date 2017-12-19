@@ -1,10 +1,10 @@
 ---
-title: "Who are we?"
+title: "About us"
 bg: turquoise
 color: black
 fa-icon: user-o
 style: center
-ref: "whoarewe"
+ref: "aboutus"
 lang: "en"
 ---
 Juan and Pierre, beekeeper and hacker
