@@ -6,7 +6,7 @@ fa-icon: cogs
 ref: "mechanical"
 lang: "en"
 ---
-![principe 01](img/romaine_larive_fleury_t3_175.png)
+![romainefleury](img/romaine_larive_fleury_t3_175.png)
 #### Original steelyard roman balance
 #### We add a motor to put counter-weight in motion
 #### An optical endstop detects balance
