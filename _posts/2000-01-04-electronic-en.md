@@ -3,7 +3,7 @@ title: "Details"
 bg: purple
 color: black
 fa-icon: align-left
-ref: "details"
+ref: "electronic"
 lang: "en"
 ---
 
