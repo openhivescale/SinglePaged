@@ -29,6 +29,10 @@ lang: "en"
 
 ![principle](img/principle.png)
 
+## Construction
+
+We designed an easy to assemble kit, made of aluminium profiles and laser cut stainless steel, joint mainly with rivet.
+Very few 'other' parts, a simple motor, a belt, linear bearing, optical end stop. That's it.
 <div class="icontain">
   <iframe src="https://www.youtube.com/embed/kFrGVwb06q8" allowfullscreen></iframe>
 </div>
