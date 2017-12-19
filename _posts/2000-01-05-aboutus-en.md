@@ -9,4 +9,4 @@ lang: "en"
 ---
 Juan and Pierre, beekeeper and hacker
 
-![aboutus](img/pierre.png)
+![aboutus](img/pierre.jpg)
