@@ -57,3 +57,11 @@ lang: "es"
 - El principio es básico y antiguo como la antigua Roma
 
 ![principle](img/principle.png)
+
+<div class="icontain">
+  <iframe src="https://www.youtube.com/embed/kFrGVwb06q8" allowfullscreen></iframe>
+</div>
+
+
+
+Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocas "otras" partes, un motor simple, una correa, un rodamiento linear, un sensor óptico. Eso es.
