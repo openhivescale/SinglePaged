@@ -1,9 +1,9 @@
 ---
-title: "En détail"
+title: "Electronique"
 bg: purple
 color: black
 fa-icon: align-left
-ref: "details"
+ref: "electronic"
 lang: "fr"
 ---
 
@@ -44,11 +44,3 @@ La meilleure energie et celle que que l'on utilise pas...
   * Les piles alcalines AA sont les plus accessibles dans le monde entier.
   
 Avec 3xAA alkaline batteries, nous atteignons 2 à 5 ans d'autonomie, en fonction du climat, de la fréquence des mesures etc ...
-
--------------------------
-
-## Construction
-
-Nous avons conçu un kit facile à assembler, composé de profilés en aluminium et d'acier inoxydable découpé au laser, assemblé des rivets et de la visserie inox. Très peu d'autres pièces, un simple moteur, une courroie, un palier linéaire, un capteur optique. C'est tout.
-
-À suivre…. 
