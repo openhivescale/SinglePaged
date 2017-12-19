@@ -2,7 +2,7 @@
 title: "Electronique"
 bg: purple
 color: black
-fa-icon: align-left
+fa-icon: microchip
 ref: "electronic"
 lang: "fr"
 ---
