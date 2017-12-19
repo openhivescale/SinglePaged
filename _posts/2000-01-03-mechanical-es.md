@@ -7,37 +7,12 @@ ref: "mechanical"
 lang: "es"
 ---
 
-<div class="i4x3">
-  <div id="slideshow">
-
-<div markdown="1">
+[principle](img/principe01.png)
 ### Antigua bascula romana
-![1](img/principe01.png)
-</div>
-    
-<div markdown="1">
 ### Añadimos un motor para poder mover el contrapeso
-![2](img/principe02.png)
-</div>
-    
-<div markdown="1">
 ### Un detector óptico detecta el equilibrio
-![3](img/principe03.png)
-</div>
-    
-<div markdown="1">
 ### Un microcontrolador maneja el sistema
-![4](img/principe04.png)
-</div>
-
-<div markdown="1">
 ### Y envía los datos...
-![5](img/principe05.png)
-</div>
-
-  </div>
-</div>.
-
 
 ## ¿Por qué una balanza mecánica, y no una celda de carga?
 
