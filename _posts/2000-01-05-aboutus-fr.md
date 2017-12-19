@@ -4,7 +4,7 @@ bg: turquoise
 color: black
 fa-icon: user-o
 style: center
-ref: "whoarewe"
+ref: "aboutus"
 lang: "fr"
 ---
 Juan et Pierre, apiculteur et développeur
