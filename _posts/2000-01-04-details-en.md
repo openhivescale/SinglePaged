@@ -43,14 +43,3 @@ Best energy is the one you don't use...
   * AA alkaline batteries are the most available battery all around the world
 
 With 3xAA alkaline batteries, we expect 2-5 years autonomy, depending on climate, measurement frequency etc...
-
--------------------------
-
-## Construction
-
-We designed an easy to assemble kit, made of aluminium profiles and laser cut stainless steel, joint mainly with rivet.
-Very few 'other' parts, a simple motor, a belt, linear bearing, optical end stop. That's it.
-
-
-
-To be continued....
