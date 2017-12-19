@@ -8,3 +8,5 @@ ref: "aboutus"
 lang: "fr"
 ---
 Juan et Pierre, apiculteur et développeur
+
+![pierre](img/pierre.png)
