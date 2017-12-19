@@ -7,7 +7,7 @@ ref: "mechanical"
 lang: "es"
 ---
 
-[principle](img/principe01.png)
+[principle](img/romaine_larive_fleury_t3_175.png)
 ### Antigua bascula romana
 ### Añadimos un motor para poder mover el contrapeso
 ### Un detector óptico detecta el equilibrio
