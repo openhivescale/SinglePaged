@@ -1,14 +1,29 @@
 ---
-title: "Propriétés"
+title: "offre"
 bg: orange
 color: black
 fa-icon: cogs
-ref: "features"
+ref: "offer"
 lang: "fr"
 ---
 
+# Option 0, DIY, tous les plans mécaniques/éléctroniques/software dispo sur github 
 
-## Excellente stabilité et précision de la mesure
-## WiFi? Sigfox? GSM? votre choix...
-## Données consultables sur [OpenHiveManager.org](https://openhivemanager.org/)
+# Option 1, kit : 180€ kit mécanique 30€ électronique dont wifi (hotspot ou esclave) 30€ module sigfox (abo 1 an inclus) 40€ GSM (SIM incluse)(dispo mi2018)
+
+# Option 2, assemblée prete à l'emploi 400€
+
+Consultation des données web et alertes mel inclus sigfox 15€/an GSM 15€/an
+
+Programme beta : souscription Janvier 2018, objectif 100 utilisateurs. 
+Si interéssés, envoyez nous un mel à contact@openhivescale.org en nous indiquant votre pays pour les frais de port et le type de module (aucun/sigfox/gsm) 
+Vérifiez la couverture sigfox de votre rucher sur coverage.sigfox.com ou communiquez nous la localisation approximative de vos ruchers. 
+
+En fonction de l'intérêt suscité, confirmation du lancement de la production, et règlement par virement.
+Livraison Avril 2018
+
+En cours de développement:
+    module gsm (mi 2018)
+    module lora (selon intéret manifesté...)
+    consultations sms
 
