@@ -1,9 +1,9 @@
 ---
-title: "Principe"
+title: "Mécanique"
 bg: green
 color: black
 fa-icon: align-left
-ref: "principle"
+ref: "mechanical"
 lang: "fr"
 ---
 
