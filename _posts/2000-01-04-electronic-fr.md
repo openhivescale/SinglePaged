@@ -16,6 +16,8 @@ lang: "fr"
   * Configuration conviviale et aisée avec un smartphone ou un ordinateur portable
   * Maître et esclave paramétrable, pour partager un seul point de terminaison GSM ou Sigfox
   * Possibilité d'ajouter des capteurs complémentaires en liaison Wifi
+  * La conception de la carte électronique avec notamment la présence d'un module Wifi permet l'ajout de modules complémentaires esclaves sans fils, facilement intégrables et sans coût d'abonnement complémentaire.
+
 
 - Sigfox (optionel)
   * Meilleure option pour la durée de vie de la batterie si aucun hotspot Wifi
