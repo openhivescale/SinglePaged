@@ -8,3 +8,5 @@ ref: "aboutus"
 lang: "en"
 ---
 Juan and Pierre, beekeeper and hacker
+
+![aboutus](img/pierre.jpg)
