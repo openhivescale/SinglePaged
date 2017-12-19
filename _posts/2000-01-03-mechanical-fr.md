@@ -2,7 +2,7 @@
 title: "Mécanique"
 bg: green
 color: black
-fa-icon: align-left
+fa-icon: cogs
 ref: "mechanical"
 lang: "fr"
 ---
