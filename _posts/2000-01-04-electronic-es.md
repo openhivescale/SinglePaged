@@ -3,7 +3,7 @@ title: "Detalles"
 bg: purple
 color: black
 fa-icon: align-left
-ref: "details"
+ref: "electronic"
 lang: "es"
 ---
 
@@ -43,10 +43,5 @@ La mejor energía es la que no usas ...
 
 Con tres baterías alcalinas 3xAA, conseguimos 2 a 5 años de autonomía, dependiendo del clima, frecuencia de medida, etc.
 
--------------------------
-
-## Construcción
-
-Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocas "otras" partes, un motor simple, una correa, un rodamiento linear, un sensor óptico. Eso es.
 
 
