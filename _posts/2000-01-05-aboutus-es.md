@@ -8,3 +8,5 @@ ref: "aboutus"
 lang: "fr"
 ---
 Juan et Pierre, apicultor y programador
+
+![pierre](img/pierre.png)
