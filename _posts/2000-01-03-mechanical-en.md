@@ -6,15 +6,11 @@ fa-icon: align-left
 ref: "mechanical"
 lang: "en"
 ---
-
-
-![principe 01](img/principe01.png)
 #### Original steelyard roman balance
 #### We add a motor to put counter-weight in motion
 #### An optical endstop detects balance
 #### A microcontroller drives the system and send the data
-
-
+![principe 01](img/principe01.png)
 ## Why a mechanical scale, and not a load cell?
 
 - Because load cell are not supposed to be under continuous constraint.
