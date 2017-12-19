@@ -1,42 +1,21 @@
 ---
-title: "Principle"
+title: "Mechanical"
 bg: green
 color: black
 fa-icon: align-left
-ref: "principle"
+ref: "mechanical"
 lang: "en"
 ---
 
-<div class="i4x3">
-  <div id="slideshow">
 
-<div markdown="1">
+![principe 01](img/principe01.png)
 ## Original steelyard roman balance
-![1](img/principe01.png)
-</div>
-    
-<div markdown="1">
 ## We add a motor to put counter-weight in motion
-![2](img/principe02.png)
-</div>
-    
+## An optical endstop detects balance
+## A microcontroller drives the system and send the data
 <div markdown="1">
-### An optical endstop detects balance
-![3](img/principe03.png)
-</div>
-    
-<div markdown="1">
-### A microcontroller drives the system
-![4](img/principe04.png)
-</div>
 
-<div markdown="1">
-### And sends the data...
-![5](img/principe05.png)
-</div>
 
-  </div>
-</div>.
 ## Why a mechanical scale, and not a load cell?
 
 - Because load cell are not supposed to be under continuous constraint.
