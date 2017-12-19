@@ -11,8 +11,7 @@ lang: "es"
 ### Antigua bascula romana
 ### Añadimos un motor para poder mover el contrapeso
 ### Un detector óptico detecta el equilibrio
-### Un microcontrolador maneja el sistema
-### Y envía los datos...
+### Un microcontrolador maneja el sistema y envía los datos...
 
 ## ¿Por qué una balanza mecánica, y no una celda de carga?
 
