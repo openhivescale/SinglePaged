@@ -1,5 +1,5 @@
 ---
-title: "Qui sommes nous?"
+title: "Nous"
 bg: turquoise
 color: black
 fa-icon: user-o
