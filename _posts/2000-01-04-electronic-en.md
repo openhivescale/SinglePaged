@@ -1,5 +1,5 @@
 ---
-title: "Details"
+title: "Electronic"
 bg: purple
 color: black
 fa-icon: align-left
