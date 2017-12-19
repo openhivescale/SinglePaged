@@ -8,11 +8,10 @@ lang: "fr"
 ---
 
 ![romainefleury](img/romaine_larive_fleury_t3_175.png)
-### Balance Romaine originale
-### Nous ajoutons un moteur pour déplacer le contre-poids
-### Un capteur optique détecte l'équilibre
-### Un microcontrôleur pilote l'ensemble
-### Et envoie les données...
+### Sur le principe de la balance Romaine originale
+### nous ajoutons un moteur pour déplacer le contre-poids
+### un capteur optique détecte l'équilibre
+### un microcontrôleur pilote l'ensemble, et envoie les données...
 
 ## Pourquoi une balance mécanique et non pas des jauges de contraintes habituellement utilisées?
 
@@ -38,7 +37,7 @@ and check zero reference is considered to be one of the most difficult applicati
 - L'électronique est beaucoup plus simple : pas d'étage analogique dont dépend la qualité de la mesure
   
 
-##Enjeu : intégration sous la ruche
+## Enjeu : intégration sous la ruche
 Contrairement à la romaine qui est suspendue, notre balance doit s'intégrer sous la ruche
 Vu le poids à peser (100kg), le contrepoids souhaitée (500g), et l'espace disponible, avoir un seul bras de levier est impossible (1:200, 40cm, le bras de levier primaire devrait faire 2mm.). D'où un design à deux "étages".
 
