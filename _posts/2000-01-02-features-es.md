@@ -1,9 +1,9 @@
 ---
-title: "Caracteristicas"
+title: "oferta"
 bg: orange
 color: black
 fa-icon: cogs
-ref: "features"
+ref: "offer"
 lang: "es"
 ---
 
