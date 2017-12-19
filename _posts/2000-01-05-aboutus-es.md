@@ -9,4 +9,4 @@ lang: "fr"
 ---
 Juan et Pierre, apicultor y programador
 
-![pierre](img/pierre.png)
+![pierre](img/pierre.jpg)
