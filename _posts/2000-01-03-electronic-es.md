@@ -1,5 +1,5 @@
 ---
-title: "Electronica"
+title: "ELECTRÓNICA"
 bg: purple
 color: black
 fa-icon: microchip
