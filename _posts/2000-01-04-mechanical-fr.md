@@ -44,6 +44,7 @@ L'électronique est beaucoup plus simple : pas d'étage analogique dont dépend 
  
 --------------
  
+ 
 ### Enjeu : intégration sous la ruche
 Contrairement à la romaine qui est suspendue, notre balance doit s'intégrer sous la ruche
 Vu le poids à peser (100kg), le contrepoids souhaitée (500g), et l'espace disponible, avoir un seul bras de levier est impossible (1:200, 40cm, le bras de levier primaire devrait faire 2mm.). D'où un design à deux "étages".
