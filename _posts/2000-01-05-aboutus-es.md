@@ -7,6 +7,6 @@ style: center
 ref: "aboutus"
 lang: "fr"
 ---
-Juan et Pierre, apicultor y programador
+Pierre y Juan, programador y apicultor
 
 ![IMGP9344](img/IMGP9344.JPG)
