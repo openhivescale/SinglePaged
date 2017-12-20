@@ -7,6 +7,7 @@ ref: "electronic"
 lang: "es"
 ---
 
+![IMGP9367.jpg](img/IMGP9367.jpg)
 
 ## Connectividad
 
