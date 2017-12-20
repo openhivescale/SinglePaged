@@ -64,4 +64,4 @@ Aucune compétence particulière n'est nécéssaire au montage.
 Le même niveau de rigueur et de patience que pour un meuble ikea suffira.
 
 
-![photo](img/20171218_235141.jpg)
+![photo](img/IMGP9335R.jpg)
