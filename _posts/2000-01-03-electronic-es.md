@@ -16,6 +16,7 @@ lang: "es"
   * La opción más barata si tiene un punto de acceso WiFi a proximidad
   * Configuración fácil con teléfono o computadora
   * Escenario maestro-esclavo, para enviar los datos desde un único punto final GSM o Sigfox 
+  * La conexión Wifi permite añadir futuros módulos esclavos
 
 - Sigfox (opcional)
   * Sigfox es una nueva red celular dedicada a objetos conectados. Bajo flujo, bajo consumo, amplio rango.
@@ -25,7 +26,7 @@ lang: "es"
 
 - GSM (opcional)
   * La mejor cobertura en todo el mundo
-   
+  * Se puede interrogar por SMS sin conexión a internet
 -------------------------
   
 ## Autonomía
