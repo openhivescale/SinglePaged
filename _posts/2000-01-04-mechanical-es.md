@@ -32,10 +32,13 @@ lang: "es"
 
 ![principle](img/principle.png)
 
+Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocas "otras" partes, un motor simple, una correa, un rodamiento linear, un sensor óptico. Eso es.
+
 <div class="icontain">
   <iframe src="https://www.youtube.com/embed/kFrGVwb06q8" allowfullscreen></iframe>
 </div>
 
+No se necesita ninguna competencia específica para el ensamblaje.
+El mismo nivel de rigor y paciencia que para montar un mueble Ikea será suficiente.
 
-
-Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocas "otras" partes, un motor simple, una correa, un rodamiento linear, un sensor óptico. Eso es.
+![photo](img/IMGP9335R.jpg)
