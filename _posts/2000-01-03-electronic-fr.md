@@ -31,7 +31,7 @@ lang: "fr"
 
 -------------------------
 
-### Autonomie
+## Autonomie
 
 La meilleure énergie est celle que l'on n'utilise pas...
 
