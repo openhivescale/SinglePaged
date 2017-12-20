@@ -15,8 +15,10 @@ lang: "en"
   * Cheapest option if you have a hotspot accessible
   * User-friendly configuration with a smartphone or laptop
   * Master-slave scenario, for sharing a single GSM or Sigfox endpoint
+  * Wifi connection allows future slave modules
 
 - Sigfox (optional)
+  * Sigfox est un nouveau réseau cellulaire dédié aux objets connectés. Faible débit, faible consommation, grande portée.
   * Best option for battery life if no hotspot
   * Subscription cheaper than GSM
   * Network coverage complementary with GSM
@@ -24,6 +26,7 @@ lang: "en"
 
 - GSM (optional)
   * Best coverage all around the world
+  * Possible to interrogate via SMS without internet connection
 
 -------------------------
   
@@ -33,9 +36,8 @@ Best energy is the one you don't use...
 
 - First, highly optimized electronic
   * 100nA sleep current
-  * Motor driving strategy
+  * Motor driving strategy to reduce motor use
   * Modulable measurement frequency and data send along the year
-  * ...
 
 - Then we look for the best trade-off between environmental impact, cost, availibility of batteries
   * We managed to achieve a good autonomy with simple alkaline batteries
@@ -43,3 +45,4 @@ Best energy is the one you don't use...
   * AA alkaline batteries are the most available battery all around the world
 
 With 3xAA alkaline batteries, we expect 2-5 years autonomy, depending on climate, measurement frequency etc...
+
