@@ -18,6 +18,7 @@ lang: "es"
   * Escenario maestro-esclavo, para enviar los datos desde un único punto final GSM o Sigfox 
 
 - Sigfox (opcional)
+  * Sigfox es una nueva red celular dedicada a objetos conectados. Bajo flujo, bajo consumo, amplio rango.
   * La mejor opción para la duración de la batería si no hay un punto de acceso WiFi
   * Cobertura de red complementaria con GSM
   * [Desarollo mundial en progreso](https://www.sigfox.com/en/coverage)
