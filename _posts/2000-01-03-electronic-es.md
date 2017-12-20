@@ -19,7 +19,6 @@ lang: "es"
 
 - Sigfox (opcional)
   * La mejor opción para la duración de la batería si no hay un punto de acceso WiFi
-  * Abono más barato que GSM
   * Cobertura de red complementaria con GSM
   * [Desarollo mundial en progreso](https://www.sigfox.com/en/coverage)
 
