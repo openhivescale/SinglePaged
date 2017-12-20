@@ -7,6 +7,6 @@ style: center
 ref: "aboutus"
 lang: "en"
 ---
-Juan and Pierre, beekeeper and hacker
+Pierre and Juan, hacker and beekeeper
 
 ![IMGP9344](img/IMGP9344.JPG)
