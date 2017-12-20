@@ -8,12 +8,18 @@ lang: "fr"
 ---
 
 ![romainefleury](img/romaine_larive_fleury_t3_175.png)
-### Sur le principe de la balance Romaine originale
-### nous ajoutons un moteur pour déplacer le contre-poids
-### un capteur optique détecte l'équilibre
-### un microcontrôleur pilote l'ensemble, et envoie les données...
 
-## Pourquoi une balance mécanique et non pas des jauges de contraintes habituellement utilisées?
+Sur le principe de la balance Romaine originale
+
+Nous ajoutons un moteur pour déplacer le contre-poids
+
+Un capteur optique détecte l'équilibre
+
+Un microcontrôleur pilote l'ensemble, et envoie les données...
+
+ 
+ 
+### Pourquoi une balance mécanique et non pas des jauges de contraintes habituellement utilisées?
 
 - Car les jauges de contraintes ne sont pas adaptées à une charge permanente.
   * Les appareils de pesage habituels permettent une tare entre chaque mesure, impossible dans un scénario de surveillance de la ruche
