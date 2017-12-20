@@ -27,6 +27,7 @@ lang: "es"
 - GSM (opcional)
   * La mejor cobertura en todo el mundo
   * Se puede interrogar por SMS sin conexión a internet
+  
 -------------------------
   
 ## Autonomía
