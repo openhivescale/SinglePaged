@@ -9,4 +9,4 @@ lang: "fr"
 ---
 Juan et Pierre, apiculteur et développeur
 
-![pierre](img/pierre.jpg)
+![IMGP9344](img/IMGP9344.JPG)
