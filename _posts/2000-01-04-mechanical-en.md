@@ -63,4 +63,4 @@ Very few 'other' parts, a simple motor, a belt, linear bearing, optical end stop
 No special skills required for assembly.
 If you're able to mount an ikea furniture, you should be fine.
 
-![photo](img/20171218_235141.jpg)
+![photo](img/IMGP9335R.jpg)
