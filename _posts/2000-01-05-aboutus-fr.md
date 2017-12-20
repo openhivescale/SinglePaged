@@ -7,6 +7,6 @@ style: center
 ref: "aboutus"
 lang: "fr"
 ---
-Juan et Pierre, apiculteur et développeur
+Pierre et Juan, développeur et apiculteur
 
 ![IMGP9344](img/IMGP9344.JPG)
