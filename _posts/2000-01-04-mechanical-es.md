@@ -53,11 +53,11 @@ Un microcontrolador maneja el sistema y envía los datos...
 ### integración bajo la colmena
 
 A lo contrario de la antigua Romana, nuestra báscula debe integrarze bajo la colmena.
-Con un contrapeso de 500g, y muy poco espacio disponible , los varios brazos de palanca permiten medir un peso de 125kg.
+Con un contrapeso de 500g, y muy poco espacio disponible , la fuerza añadida por los varios brazos de palanca permiten medir un peso de 125kg.
 
 ![principle](img/principle.png)
 
-Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocas "otras" partes, un motor simple, una correa, un rodamiento linear, un sensor óptico. Eso es.
+Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocos otros componentes, un motor sencillo, una correa, un rodamiento linear, un sensor óptico.
 
 <div class="icontain">
   <iframe src="https://www.youtube.com/embed/kFrGVwb06q8" allowfullscreen></iframe>
