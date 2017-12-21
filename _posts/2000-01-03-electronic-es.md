@@ -44,7 +44,7 @@ La mejor energía es la que no usas ...
   * En un ciclo de vida de 10 años, la batería recargable, Li-ion o Ni-MH, con o sin panel solar tienen un mayor costo e impacto
   * Las baterías alcalinas AA son la batería más disponible en todo el mundo 
 
-Con tres baterías alcalinas 3xAA, conseguimos 2 a 5 años de autonomía, dependiendo del clima, frecuencia de medida, etc.
+Con tres baterías alcalinas 3xAA, conseguimos 2 a 5 años de autonomía, dependiendo del clima, de la frecuencia de las medidas, etc.
 
 
 
