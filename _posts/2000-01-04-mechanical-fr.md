@@ -37,6 +37,7 @@ Car les jauges de contraintes ne sont pas adaptées à une charge permanente.
 
 Parceque nous ne dépendons d'aucun composant complexe sur la partie mécanique (moteur, fourche optique)
   * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse
+  * #Résolution 6g, précision 30g quelque soit la charge de 0 à 125Kg#
   * En cas de problème, le diagnostic et la réparation sont aisés
   * *DIY-ers friendly (Do It Yourself)*
  
