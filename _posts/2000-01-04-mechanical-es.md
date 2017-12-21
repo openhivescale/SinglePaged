@@ -25,12 +25,11 @@ Un microcontrolador maneja el sistema y envía los datos...
 -------------- 
 ## ¿Por qué una báscula mecánica, y no una celda de carga?
 
-- Debido a que la celda de carga no se supone que esté bajo carga continua.
+- Porque la celda de carga no debe estar bajo una carga continua.
   * Un fenómeno de fluencia hace que la medida sea inestable después de un tiempo, esto está muy bien documentado.
   * Los fabricantes de células de carga no comunican sobre la deriva de la medida tras 30 minutos de carga ...
-  * Habitualmente las basculas con celda de carga implican una tara entre cada medición, y no es posible en el escenario de monitoreo de colmena.
-  * Comprobamos esto en nuestro primer prototipo usando celdas de carga, fue peor de lo esperado.
-  * La escala mecánica no está sujeta a este fenómeno de deriva de la medida. Incluso si la estructura se desformara, la medida no cambiaria. 
+  * Habitualmente las básculas con celda de carga implican una tara entre cada pesada, y no es posible en el escenario de monitoreo de colmena.
+  * La báscula mecánica no está sujeta a este fenómeno de deriva de la medida. Incluso si la estructura se desformara, la medida no cambiaría. 
   
   
 [https://dipot.ulb.ac.be/dspace/bitstream/2013/146415/1/RAM_HBM.pdf](https://dipot.ulb.ac.be/dspace/bitstream/2013/146415/1/RAM_HBM.pdf)
@@ -42,8 +41,8 @@ Un microcontrolador maneja el sistema y envía los datos...
 [http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html](http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html)
 
   
-- Porque no dependemos de ninguna parte complicada que debemos subcontratar.
-  * Esto permite mantener el costo bajo con una solidez y precisión sin igual.
+- Porque no dependemos de ningun componente complejo que debemos subcontratar.
+  * Esto permite mantener un costo bajo con una solidez y precisión sin igual.
   * Resulta más fácil entender lo que pasa en caso de avería y repararlo si necesario.
   * DIY-ers friendly (Do it Yourself).
 
