@@ -23,7 +23,7 @@ Un microcontrolador maneja el sistema y envía los datos...
 (Protocolo de prueba realizado para controlar la linearidad y la repetibilidad en curso de redacción)
 
 -------------- 
-## ¿Por qué una balanza mecánica, y no una celda de carga?
+## ¿Por qué una báscula mecánica, y no una celda de carga?
 
 - Debido a que la celda de carga no se supone que esté bajo carga continua.
   * Un fenómeno de fluencia hace que la medida sea inestable después de un tiempo, esto está muy bien documentado.
