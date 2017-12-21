@@ -18,6 +18,11 @@ Un capteur optique détecte l'équilibre
 Un microcontrôleur pilote l'ensemble, et envoi les données...
 
 -------------- 
+
+### Résolution 6g, précision 30g quelque soit la charge de 0 à 125Kg 
+(Protocole de test réalisé permettant de contrôler la linéarité et la répétabilité en cours de rédaction)
+
+-------------- 
  
 ### Pourquoi une balance mécanique et non pas des jauges de contraintes habituellement utilisées?
 
@@ -36,8 +41,7 @@ Car les jauges de contraintes ne sont pas adaptées à une charge permanente.
 [http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html](http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html)
 
 Parceque nous ne dépendons d'aucun composant complexe sur la partie mécanique (moteur, fourche optique)
-  * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse
-  * Résolution 6g, précision 30g quelque soit la charge de 0 à 125Kg (Protocole de test réalisé en cours de rédaction)
+  * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse 
   * En cas de problème, le diagnostic et la réparation sont aisés
   * *DIY-ers friendly (Do It Yourself)*
  
