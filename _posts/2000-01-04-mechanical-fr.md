@@ -66,4 +66,4 @@ Le même niveau de rigueur et de patience que pour un meuble ikea suffira.
 
 ![photo](img/IMGP9335R.jpg)
 
-Photo de présentation, la version commersialisée dispose d'un boitier étanche pour l'électronique et d'un capotage de protection au dessus des des bras de levier
+Photo de présentation, la version commersialisée dispose d'un boitier étanche pour l'électronique et d'un capotage de protection au dessus des des bras de levier.
