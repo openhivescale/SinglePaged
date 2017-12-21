@@ -1,2 +1,2 @@
 
-Pierre BECK - Juan GONZALEZ             contact@OpenhiveScale.org
+Pierre BECK - Juan GONZALEZ             contact@openhivescale.org
