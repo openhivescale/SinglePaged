@@ -19,6 +19,10 @@ Un microcontrolador maneja el sistema y envía los datos...
 
 -------------- 
 
+## Resolución 6g, precisión 30g de 0 a 125Kg 
+(Protocolo de prueba realizado para controlar la linearidad y la repetibilidad en curso de redacción)
+
+-------------- 
 ## ¿Por qué una balanza mecánica, y no una celda de carga?
 
 - Debido a que la celda de carga no se supone que esté bajo carga continua.
@@ -65,3 +69,5 @@ No se necesita ninguna competencia específica para el ensamblaje.
 El mismo nivel de rigor y paciencia que para montar un mueble Ikea será suficiente.
 
 ![photo](img/IMGP9335R.jpg)
+
+Foto de presentación, la versión comercializada dispone de una caja IP65 para la electrónica y de un capotaje de protección por encima de los brazos de palanca.
