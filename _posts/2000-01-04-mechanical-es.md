@@ -26,10 +26,10 @@ Un microcontrolador maneja el sistema y envía los datos...
 ## ¿Por qué una balanza mecánica, y no una celda de carga?
 
 - Debido a que la celda de carga no se supone que esté bajo carga continua.
-  * Un fenómeno de fluencia hace que la medida sea inestable después de un tiempo, esto está muy bien documentado
+  * Un fenómeno de fluencia hace que la medida sea inestable después de un tiempo, esto está muy bien documentado.
   * Los fabricantes de células de carga no comunican sobre la deriva de la medida tras 30 minutos de carga ...
-  * Habitualmente las basculas con celda de carga implican una tara entre cada medición, y no es posible en el escenario de monitoreo de colmena
-  * Comprobamos esto en nuestro primer prototipo usando celdas de carga, fue peor de lo esperado
+  * Habitualmente las basculas con celda de carga implican una tara entre cada medición, y no es posible en el escenario de monitoreo de colmena.
+  * Comprobamos esto en nuestro primer prototipo usando celdas de carga, fue peor de lo esperado.
   * La escala mecánica no está sujeta a este fenómeno de deriva de la medida. Incluso si la estructura se desformara, la medida no cambiaria. 
   
   
@@ -42,20 +42,19 @@ Un microcontrolador maneja el sistema y envía los datos...
 [http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html](http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html)
 
   
-- Porque no dependemos de ninguna parte complicada que debemos subcontratar
-  * Esto permite mantener el costo bajo con una solidez y precisión sin igual
-  * Resulta más fácil entender lo que pasa en caso de avería y repararlo si necesario
-  * DIY-ers friendly (Do it Yourself)
+- Porque no dependemos de ninguna parte complicada que debemos subcontratar.
+  * Esto permite mantener el costo bajo con una solidez y precisión sin igual.
+  * Resulta más fácil entender lo que pasa en caso de avería y repararlo si necesario.
+  * DIY-ers friendly (Do it Yourself).
 
-- La electrónica es mucho más sencilla: sin capa analógica de la cual depende la calidad de la medida
+- La electrónica es mucho más sencilla: sin capa analógica de la cual depende la calidad de la medida.
 
 -------------- 
 
 ### integración bajo la colmena
 
-A lo contrario de la antigua Romana, nuestra báscula debe integrarze bajo la colmena
-Contrairement à la romaine qui est suspendue, notre balance doit s'intégrer sous la ruche
-Con un contrapeso de 500g, y muy poco espacio disponible , los varios brazos de palanca permiten medir un peso de 100kg
+A lo contrario de la antigua Romana, nuestra báscula debe integrarze bajo la colmena.
+Con un contrapeso de 500g, y muy poco espacio disponible , los varios brazos de palanca permiten medir un peso de 125kg.
 
 ![principle](img/principle.png)
 
