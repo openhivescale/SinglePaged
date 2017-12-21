@@ -20,7 +20,7 @@ title:
   es: "OpenHiveScale"
 keywords:    "hive scale beehive connected IoT opensource sigfox"
 description: "An opensource, connected and mechanical scale for beehive monitoring "
-source_link: "https://github.com/OpenHiveScale"
+source_link: "https://github.com/openhivescale"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/icone57.png"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
