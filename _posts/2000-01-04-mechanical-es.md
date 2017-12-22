@@ -26,13 +26,9 @@ Un microcontrolador maneja el sistema y envía los datos...
 ## ¿Por qué una báscula mecánica, y no una celda de carga?
 
 - Porque la celda de carga no debe estar bajo una carga continua.
-
   * Un fenómeno de fluencia hace que la medida sea inestable después de un tiempo, esto está muy bien documentado.
-  
   * Los fabricantes de células de carga no comunican sobre la deriva de la medida tras 30 minutos de carga ...
-  
   * Habitualmente las básculas con celda de carga implican una tara entre cada pesada, y no es posible en el escenario de monitoreo de colmena.
-  
   * La báscula mecánica no está sujeta a este fenómeno de deriva de la medida. Incluso si la estructura se desformara, la medida no cambiaría. 
   
   
@@ -46,11 +42,8 @@ Un microcontrolador maneja el sistema y envía los datos...
 
   
 - Porque no dependemos de ningun componente complejo que debemos subcontratar.
-
   * Esto permite mantener un costo bajo con una solidez y precisión sin igual.
-  
   * Resulta más fácil entender lo que pasa en caso de avería y repararlo si necesario.
-  
   * DIY-ers friendly (Do it Yourself).
 
 - La electrónica es mucho más sencilla: sin capa analógica de la cual depende la calidad de la medida.
