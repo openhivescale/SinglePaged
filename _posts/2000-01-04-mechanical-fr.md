@@ -27,8 +27,11 @@ Un microcontrôleur pilote l'ensemble, et envoi les données...
 ### Pourquoi une balance mécanique et non pas des jauges de contraintes habituellement utilisées?
 
 Car les jauges de contraintes ne sont pas adaptées à une charge permanente.
+
   * Les appareils de pesage habituels nécéssitent une tare entre chaque mesure, impossible dans un scénario de surveillance de la ruche
+  
   * Il existe un phénomène de dérive de la mesure connu et documenté, que nous avons pu constater sur notre premier prototype qui utilisait ce type de capteur. Et il n'existe pas de bon compromis coût/qualité de la mesure.
+  
   * Une balance mécanique n'est pas sujette à ce phénomène et même si la structure venait à se déformer, la mesure ne pourrait dériver.
 
 
@@ -41,8 +44,11 @@ Car les jauges de contraintes ne sont pas adaptées à une charge permanente.
 [http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html](http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html)
 
 Parceque nous ne dépendons d'aucun composant complexe sur la partie mécanique (moteur, fourche optique)
+
   * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse 
+  
   * En cas de problème, le diagnostic et la réparation sont aisés
+  
   * *DIY-ers friendly (Do It Yourself)*
  
 L'électronique est beaucoup plus simple : pas d'étage analogique dont dépend la qualité de la mesure
