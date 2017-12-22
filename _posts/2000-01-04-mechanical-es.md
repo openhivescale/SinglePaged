@@ -69,3 +69,9 @@ El mismo nivel de rigor y paciencia que para montar un mueble Ikea será suficie
 ![photo](img/IMGP9335R.jpg)
 
 Foto de presentación, la versión comercializada dispone de una caja IP65 para la electrónica y de un capotaje de protección por encima de los brazos de palanca.
+
+<iframe width="1264" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
+
+Exemple de protocole de test réalisé avec un module Sigfox:
+Après la pose d'un sol de ruche, on ajoute des masses A, B, puis C, puis on les enlève progressivement et on les repositionne dans le même ordre. Vous pouvez constater la précision... 
+Au niveau de l'autonomie on obtient un résultat de 1325 mesures avec les 3 piles AA.
