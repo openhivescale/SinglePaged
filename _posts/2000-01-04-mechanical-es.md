@@ -73,5 +73,5 @@ Foto de presentación, la versión comercializada dispone de una caja IP65 para 
 <iframe width="1264" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
 
 Ejemplo de test realizado con un modulo Sigfox:
-Après la pose d'un sol de ruche, on ajoute des masses A, B, puis C, puis on les enlève progressivement et on les repositionne dans le même ordre. Vous pouvez constater la précision... 
-Au niveau de l'autonomie on obtient un résultat de 1325 mesures avec les 3 piles AA.
+Despues de haber posado una base de colmena, añadimos un peso A, B, y C, despues los quitamos y los volvemos a colocar en el mismo orden. Podeis constatar la precision... 
+Obtenemos una autonomia de 1325 pesadas con las 3 pilas AA.
