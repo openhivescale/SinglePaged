@@ -49,7 +49,6 @@ L'électronique est beaucoup plus simple : pas d'étage analogique dont dépend 
  
 --------------
  
- 
 ### Enjeu : intégration sous la ruche
 Contrairement à la romaine qui est suspendue, notre balance doit s'intégrer sous la ruche
 Vu le poids à peser (100kg), le contrepoids souhaitée (500g), et l'espace disponible, avoir un seul bras de levier est impossible (1:200, 40cm, le bras de levier primaire devrait faire 2mm.). D'où un design à deux "étages".
@@ -72,3 +71,11 @@ Le même niveau de rigueur et de patience que pour un meuble ikea suffira.
 ![photo](img/IMGP9335R.jpg)
 
 Photo de présentation, la version commercialisée dispose d'un boitier étanche pour l'électronique et d'un capotage de protection au dessus des des bras de levier.
+
+Exemple de protocole de test réalisé avec un module Sigfox:
+Après la pose d'un sol Nicot, on ajoute des masses A, B, puis C, puis on les enlève progressivement et on les repositionne dans le même ordre. Vous pouvez constater la précision... 
+Au niveau de l'autonomie on obtient un résultat de 1325 mesures avec les 3 piles AA.
+
+<iframe width="1264" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
+
+
