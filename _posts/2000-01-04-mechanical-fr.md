@@ -41,11 +41,8 @@ Car les jauges de contraintes ne sont pas adaptées à une charge permanente.
 [http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html](http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html)
 
 Parceque nous ne dépendons d'aucun composant complexe sur la partie mécanique (moteur, fourche optique)
-
   * Cela permet d'obtenir un prix inégalé pour un tel niveau de précision et de robustesse 
-  
   * En cas de problème, le diagnostic et la réparation sont aisés
-  
   * *DIY-ers friendly (Do It Yourself)*
  
 L'électronique est beaucoup plus simple : pas d'étage analogique dont dépend la qualité de la mesure
