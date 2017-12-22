@@ -27,11 +27,8 @@ A microcontroller drives the system and send the data
 ## Why a mechanical scale, and not using load cells?
 
 Because load cell are not supposed to be under continuous load
-
   * Typical use case implies a tare between each measurement, not possible in hive monitoring scenario
-
   * A creep phenomen make measurement unstable after some time, this is well documented, that we check on our first prototype
-  
   * Mechanical scale is not subject to this phenomen. Even if structure creeps, measurement wouldn't change.
 
 [https://dipot.ulb.ac.be/dspace/bitstream/2013/146415/1/RAM_HBM.pdf](https://dipot.ulb.ac.be/dspace/bitstream/2013/146415/1/RAM_HBM.pdf)
@@ -43,11 +40,8 @@ Because load cell are not supposed to be under continuous load
 [http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html](http://www.analog.com/en/analog-dialogue/articles/a-reference-design-for-weigh-scales.html)
 
 Because we don't depend on any complicated part that we must outsource on the mechanical part (motor, optical endstop)
-
   * This makes possible to keep cost low
-  
   * Easier to understand what could go wrong and repair
-  
   * DIY-ers friendly
 
 Electronic is much simpler : no analog layer on which measurement quality depends
