@@ -19,7 +19,7 @@ lang: "en"
   * Wifi connection allows future slave modules
 
 - Sigfox (optional)
-  * Sigfox est un nouveau réseau cellulaire dédié aux objets connectés. Faible débit, faible consommation, grande portée.
+  * Sigfox is a new cellular network dedicated to IoT. Low bandwidth, low power, long range.
   * Best option for battery life if no hotspot
   * Subscription cheaper than GSM
   * Network coverage complementary with GSM
