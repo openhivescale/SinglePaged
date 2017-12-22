@@ -18,7 +18,13 @@ A microcontroller drives the system and send the data
 
 -------------- 
 
-## Why a mechanical scale, and not a load cell?
+### Resolution 6g, precision 30g whatever the load is from 0 to 125Kg 
+
+(Documentation of the tests allowing to control linearity and repeatabiliy is under progress)
+
+-------------- 
+
+## Why a mechanical scale, and not using load cells?
 
 Because load cell are not supposed to be under continuous load
   * Typical use case implies a tare between each measurement, not possible in hive monitoring scenario
@@ -64,3 +70,6 @@ No special skills required for assembly.
 If you're able to mount an ikea furniture, you should be fine.
 
 ![photo](img/IMGP9335R.jpg)
+
+The picture doesn't show modifications that will be on the kit sold : a waterproof case for electronic, and a protection above beams.
+
