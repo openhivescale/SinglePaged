@@ -71,7 +71,13 @@ If you're able to mount an ikea furniture, you should be fine.
 
 The picture doesn't show modifications that will be on the kit sold : a waterproof case for electronic, and a protection above beams.
 
-<iframe width="1264" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
+-------------- 
+
+### Résultats
+
+<div class="icontain">
+<iframe seamless frameborder="0" scrolling="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;embedded=true"></iframe>
+</div>
 
 Test example made with a Sigfox module: After having placed a hive base, we added a weight A, B, and C, we removed them and put them back in the same order. We get a range of 1325 weights with 3 AA batteries.
 
