@@ -71,8 +71,13 @@ Le même niveau de rigueur et de patience que pour un meuble ikea suffira.
 
 Photo de présentation, la version commercialisée dispose d'un boitier étanche pour l'électronique et d'un capotage de protection au dessus des des bras de levier.
 
+
+-------------- 
+
+### Résultats
+
 <div class="icontain">
-<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
+<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive;embedded=true"></iframe>
 </div>
 
 Exemple de protocole de test réalisé avec un module Sigfox:
