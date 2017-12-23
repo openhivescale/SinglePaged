@@ -17,10 +17,6 @@ Un detector óptico detecta el equilibrio
 
 Un microcontrolador maneja el sistema y envía los datos...
 
--------------- 
-
-## Resolución 6g, precisión 30g de 0 a 125Kg 
-(Protocolo de prueba realizado para controlar la linearidad y la repetibilidad en curso de redacción)
 
 -------------- 
 ## ¿Por qué una báscula mecánica, y no una celda de carga?
@@ -50,7 +46,9 @@ Un microcontrolador maneja el sistema y envía los datos...
 
 -------------- 
 
-### integración bajo la colmena
+### Del concepto a la realidad
+
+integración bajo la colmena
 
 A lo contrario de la antigua Romana, nuestra báscula debe integrarze bajo la colmena.
 Con un contrapeso de 500g, y muy poco espacio disponible , la fuerza añadida por los varios brazos de palanca permiten medir un peso de 125kg.
@@ -73,5 +71,9 @@ Foto de presentación, la versión comercializada dispone de una caja IP65 para 
 <iframe width="1264" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
 
 Ejemplo de test realizado con un modulo Sigfox:
-Después de haber posado una base de colmena, añadimos un peso A, B, y C, los quitamos y los volvemos a colocar en el mismo orden. Podéis constatar la precisión... 
+
+Después de haber posado una base de colmena, añadimos un peso A, B, y C, los quitamos y los volvemos a colocar en el mismo orden.
 Obtenemos una autonomía de 1325 pesadas con las 3 pilas AA. 
+
+Resolución 6g, precisión 30g de 0 a 125Kg
+(Protocolo de prueba realizado para controlar la linearidad y la repetibilidad en curso de redacción)
