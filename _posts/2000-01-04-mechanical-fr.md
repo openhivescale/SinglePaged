@@ -18,11 +18,6 @@ Un capteur optique détecte l'équilibre
 Un microcontrôleur pilote l'ensemble, et envoi les données...
 
 -------------- 
-
-### Résolution 6g, précision 30g quelque soit la charge de 0 à 125Kg 
-(Protocole de test réalisé permettant de contrôler la linéarité et la répétabilité en cours de rédaction)
-
--------------- 
  
 ### Pourquoi une balance mécanique et non pas des jauges de contraintes habituellement utilisées?
 
@@ -47,9 +42,13 @@ Parceque nous ne dépendons d'aucun composant complexe sur la partie mécanique 
  
 L'électronique est beaucoup plus simple : pas d'étage analogique dont dépend la qualité de la mesure
  
---------------
- 
-### Enjeu : intégration sous la ruche
+
+-------------- 
+
+### Du concept à la réalité
+
+Enjeu : intégration sous la ruche
+
 Contrairement à la romaine qui est suspendue, notre balance doit s'intégrer sous la ruche
 Vu le poids à peser (100kg), le contrepoids souhaitée (500g), et l'espace disponible, avoir un seul bras de levier est impossible (1:200, 40cm, le bras de levier primaire devrait faire 2mm.). D'où un design à deux "étages".
 
@@ -78,3 +77,6 @@ Photo de présentation, la version commercialisée dispose d'un boitier étanche
 Exemple de protocole de test réalisé avec un module Sigfox:
 Après la pose d'un sol de ruche, on ajoute des masses A, B, puis C, puis on les enlève progressivement et on les repositionne dans le même ordre. Vous pouvez constater la précision... 
 Au niveau de l'autonomie on obtient un résultat de 1325 mesures avec les 3 piles AA.
+
+Résolution 6g, précision 30g quelque soit la charge de 0 à 125Kg 
+(Protocole de test réalisé permettant de contrôler la linéarité, la répétabilité en cours de rédaction)
