@@ -75,8 +75,7 @@ Photo de présentation, la version commercialisée dispose d'un boitier étanche
 <iframe width="1264" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
 
 Exemple de protocole de test réalisé avec un module Sigfox:
-Après la pose d'un sol de ruche, on ajoute des masses A, B, puis C, puis on les enlève progressivement et on les repositionne dans le même ordre. Vous pouvez constater la précision... 
-Au niveau de l'autonomie on obtient un résultat de 1325 mesures avec les 3 piles AA.
+Après la pose d'un sol de ruche, on ajoute des masses A, B, puis C, puis on les enlève progressivement et on les repositionne dans le même ordre. Au niveau de l'autonomie on obtient un résultat de 1325 mesures avec les 3 piles AA.
 
 Résolution 6g, précision 30g quelque soit la charge de 0 à 125Kg 
 (Protocole de test réalisé permettant de contrôler la linéarité, la répétabilité en cours de rédaction)
