@@ -16,11 +16,6 @@ An optical endstop detects balance
 
 A microcontroller drives the system and send the data
 
--------------- 
-
-### Resolution 6g, precision 30g whatever the load is from 0 to 125Kg 
-
-(Documentation of the tests allowing to control linearity and repeatabiliy is under progress)
 
 -------------- 
 
@@ -48,7 +43,10 @@ Electronic is much simpler : no analog layer on which measurement quality depend
  
 --------------
 
-### Enjeu : intégration sous la ruche
+### From concept to reality
+
+Enjeu : intégration sous la ruche
+
 Unlike steelyard that is suspended, our scale has to intergrate under the hive
 Given the object to weigh (100kg), the expected counter weight (500g), and available space, having a single beam is impossible (1:200, 40cm, primary beam should be 2mm long). Here is why a 2 stages design
 
@@ -75,4 +73,8 @@ The picture doesn't show modifications that will be on the kit sold : a waterpro
 
 <iframe width="1264" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive"></iframe>
 
-Test example made with a Sigfox module: After having placed a hive base, we added a weight A, B, and C, we removed them and put them back in the same order. You can see the accuracy ... We get a range of 1325 weights with 3 AA batteries.
+Test example made with a Sigfox module: After having placed a hive base, we added a weight A, B, and C, we removed them and put them back in the same order. We get a range of 1325 weights with 3 AA batteries.
+
+Resolution 6g, precision 30g whatever the load is from 0 to 125Kg 
+
+(Documentation of the tests allowing to control linearity and repeatabiliy is under progress)
