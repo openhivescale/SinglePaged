@@ -77,7 +77,7 @@ Photo de présentation, la version commercialisée dispose d'un boitier étanche
 ### Résultats
 
 <div class="icontain">
-<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;format=interactive;embedded=true"></iframe>
+<iframe seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;embedded=true"></iframe>
 </div>
 
 Exemple de protocole de test réalisé avec un module Sigfox:
