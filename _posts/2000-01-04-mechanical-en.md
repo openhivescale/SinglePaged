@@ -60,7 +60,7 @@ It's made of aluminium profiles and laser cut stainless steel, joint by stainles
 Very few 'other' parts, a simple motor, a belt, linear bearing, optical end stop. That's it.
 
 <div class="icontain">
-  <iframe src="https://www.youtube.com/embed/kFrGVwb06q8" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/watch?v=mdRDo3nDtJ8" allowfullscreen></iframe>
 </div>
 <br>
 
