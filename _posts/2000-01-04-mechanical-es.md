@@ -58,7 +58,7 @@ Con un contrapeso de 500g, y muy poco espacio disponible , la fuerza añadida po
 Diseñamos un kit fácil de montar, hecho de perfiles de aluminio y acero inoxidable cortado con láser, unidos principalmente con remaches y tornillería inoxidable. Muy pocos otros componentes, un motor sencillo, una correa, un rodamiento linear, un sensor óptico.
 
 <div class="icontain">
-  <iframe src="https://www.youtube.com/embed/mdRDo3nDtJ8&t" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/mdRDo3nDtJ8" allowfullscreen></iframe>
 </div>
 
 No se necesita ninguna competencia específica para el ensamblaje.
