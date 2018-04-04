@@ -59,7 +59,7 @@ Nous avons conçu un kit durable, réparable, modifiable, évolutif.
 Composé de profilés en aluminium et d'acier inoxydable découpé au laser, assemblé par de la visserie inox. Très peu d'autres pièces, un simple moteur, une courroie, un palier linéaire, un capteur optique. C'est tout.
 
 <div class="icontain">
-  <iframe src="https://www.youtube.com/embed/kFrGVwb06q8" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/mdRDo3nDtJ8" allowfullscreen></iframe>
 </div>
 <br>
 
