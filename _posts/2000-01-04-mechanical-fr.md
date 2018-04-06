@@ -61,6 +61,7 @@ Composé de profilés en aluminium et d'acier inoxydable découpé au laser, ass
 <div class="icontain">
   <iframe src="https://www.youtube.com/embed/mdRDo3nDtJ8" allowfullscreen></iframe>
 </div>
+
 <br>
 
 Aucune compétence particulière n'est nécéssaire au montage. 
