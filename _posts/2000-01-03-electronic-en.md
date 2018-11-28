@@ -29,6 +29,11 @@ lang: "en"
   * Best coverage all around the world
   * Possible to interrogate via SMS without internet connection
 
+- Lora (optional)
+  * Alternative network to Sigfox, similar power consumption and coverage (LPWAN)
+  * Possible to use the collaborative network [TheThingsNetwork](https://www.thethingsnetwork.org/)
+  * We don't propose yet subscription using commercial networks
+
 -------------------------
   
 ## Autonomy

@@ -7,7 +7,7 @@ ref: "electronic"
 lang: "fr"
 ---
 
-![IMGP9367.jpg](img/IMGP9367.jpg)
+![carte-maitre-et-esclaves.jpg](img/carte-maitre-et-esclaves.jpg)
 
 ## Connectivité
 
@@ -28,6 +28,11 @@ lang: "fr"
 - GSM (optionnel)
   * Meilleure couverture partout dans le monde
   * Possibilité d'interrogation SMS sans passer par internet
+ 
+- Lora (optionnel)
+  * Réseau alternatif à Sigfox, consommation et portée similaire
+  * Possibilité d'utiliser le réseau communautaire [TheThingsNetwork](https://www.thethingsnetwork.org/)
+  * Nous ne proposons pas encore d'abonnement utilisant les réseaux commerciaux
 
 -------------------------
 
