@@ -23,8 +23,8 @@ A microcontroller drives the system and send the data
 
 Because load cell are not supposed to be under continuous load
   * Typical use case implies a tare between each measurement, not possible in hive monitoring scenario
-  * A creep phenomen make measurement unstable after some time, this is well documented, that we check on our first prototype
-  * Mechanical scale is not subject to this phenomen. Even if structure creeps, measurement wouldn't change.
+  * A creep phenomena make measurement unstable after some time, this is well documented, that we check on our first prototype
+  * Mechanical scale is not subject to this phenomena. Even if structure creeps, measurement wouldn't change.
 
 [https://dipot.ulb.ac.be/dspace/bitstream/2013/146415/1/RAM_HBM.pdf](https://dipot.ulb.ac.be/dspace/bitstream/2013/146415/1/RAM_HBM.pdf)
 
@@ -45,9 +45,9 @@ Electronic is much simpler : no analog layer on which measurement quality depend
 
 ### From concept to reality
 
-Enjeu : intégration sous la ruche
+Challenge: integration under the hive
 
-Unlike steelyard that is suspended, our scale has to intergrate under the hive
+Unlike steelyard that is suspended, our scale has to integrate under the hive
 Given the object to weigh (100kg), the expected counter weight (500g), and available space, having a single beam is impossible (1:200, 40cm, primary beam should be 2mm long). Here is why a 2 stages design
 
 ![principle](img/principle.png)
@@ -74,7 +74,7 @@ The picture doesn't show modifications that will be on the kit sold : a waterpro
 
 -------------- 
 
-### Résultats
+### Results
 
 <div class="icontain">
 <iframe seamless frameborder="0" scrolling="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkP-vBIrygrKL4rIhkSzMw3B0RTOQDyZ21LOhGQGx0f2L3cipl1LCMDOu8Xt_0CLbM8wPw9Htej1xK/pubchart?oid=1184278694&amp;embedded=true"></iframe>
@@ -84,4 +84,4 @@ Test example made with a Sigfox module: After having placed a hive base, we adde
 
 Resolution 6g, precision 30g whatever the load is from 0 to 125Kg 
 
-(Documentation of the tests allowing to control linearity and repeatabiliy is under progress)
+(Documentation of the tests allowing to control linearity and repeatability is under progress)

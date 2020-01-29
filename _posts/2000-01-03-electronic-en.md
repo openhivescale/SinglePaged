@@ -43,11 +43,11 @@ Best energy is the one you don't use...
 - First, highly optimized electronic
   * 100nA sleep current
   * Motor driving strategy to reduce motor use
-  * Modulable measurement frequency and data send along the year
+  * Modular measurement frequency and data send along the year
 
-- Then we look for the best trade-off between environmental impact, cost, availibility of batteries
+- Then we look for the best trade-off between environmental impact, cost, availability of batteries
   * We managed to achieve a good autonomy with simple alkaline batteries
-  * On a 10 years lifecycle, rechargeable battery, Li-ion or Ni-MH, with or without solar panel as an higher cost and impact
+  * On a 10 years life cycle, rechargeable battery, Li-ion or Ni-MH, with or without solar panel as an higher cost and impact
   * AA alkaline batteries are the most available battery all around the world
 
 With 3xAA alkaline batteries, we expect 2-5 years autonomy, depending on climate, measurement frequency etc...
